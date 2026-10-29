@@ -10,7 +10,7 @@ Game **Flappy Bird** yang dibuat menggunakan **Scratch** dengan tema planet Mars
 
 | Menu Awal | Gameplay | Game Over |
 |:---:|:---:|:---:|
-| ![Menu Awal](screenshots/menu.jpeg) | ![Gameplay](screenshots/gameplay.jpeg) | ![Game Over](screenshots/game-over.jpeg) |
+| ![Menu Awal](Menu%20Awal.jpeg) | ![Gameplay](Gameplay.jpeg) | ![Game Over](Game%20Over.jpeg) |
 
 ---
 
