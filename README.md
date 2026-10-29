@@ -79,27 +79,6 @@ Game ini dibuat sebagai **tugas sekolah** (Bu Diena – kelas PPLG 1) untuk bela
     └── game-over.jpeg
 ```
 
----
-
-## 🚀 Menjalankan Secara Lokal
-
-1. Download atau clone repository ini.
-2. Buka file `index.html` langsung di browser (Chrome / Edge / Firefox).
-3. Selesai, game siap dimainkan!
-
-> 💡 Jika game tidak muncul saat dibuka langsung, jalankan lewat server lokal, misalnya dengan ekstensi **Live Server** di VS Code.
-
----
-
-## ☁️ Deploy ke Netlify
-
-1. Masuk ke [Netlify](https://app.netlify.com/).
-2. Pilih **Add new site → Deploy manually**.
-3. Drag & drop folder yang berisi `index.html`.
-4. Game langsung online dan bisa dibagikan lewat link.
-
----
-
 ## 👤 Pembuat
 
 - **Nama:** Radit
@@ -108,13 +87,3 @@ Game ini dibuat sebagai **tugas sekolah** (Bu Diena – kelas PPLG 1) untuk bela
 
 ---
 
-## 🙏 Credit
-
-- Dibuat dengan [Scratch](https://scratch.mit.edu/) – Scratch Foundation & MIT Media Lab
-- Dipackage dengan [TurboWarp Packager](https://packager.turbowarp.org/)
-- Terinspirasi dari game *Flappy Bird* karya Dong Nguyen
-- Aset gambar (karakter, latar, dan pipa): sesuaikan dengan sumber aset yang kamu pakai
-
----
-
-⭐ Kalau suka game ini, jangan lupa kasih bintang di repository ini!
