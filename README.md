@@ -83,7 +83,6 @@ Game ini dibuat sebagai **tugas sekolah** (Bu Diena – kelas PPLG 1) untuk bela
 
 - **Nama:** Radit
 - **Kelas:** PPLG 1
-- **Tugas:** Bu Diena
 
 ---
 
